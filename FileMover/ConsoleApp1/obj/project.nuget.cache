@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "HqXpYORehmcuEYfjDpkSbuFJy5EbOdhNRRIi3kEXDEeVQE3s+b2k5yqmEf8KUQL2Zbzb+SKEfon5/XLupInoqQ==",
   "success": true,
   "projectFilePath": "E:\\Esyasoft\\FileMover\\ConsoleApp1\\ConsoleApp1.csproj",
@@ -11,5 +12,11 @@
     "C:\\Users\\ankit\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
     "C:\\Users\\ankit\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "XW9+7UNh0VccuUOIJZy+jjsOASfJZOX/fJfgfKWl0HYZbKAY7K3IzPH+qFYtRZpjk3e+p9Rx01Z0i0QOH/jDEg==",
+  "success": true,
+  "projectFilePath": "E:\\Esyasoft\\FileMover\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> fecd96645c55c37c07a6fcde1121366465761f04
   "logs": []
 }

@@ -39,12 +39,15 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+<<<<<<< HEAD
           "dependencies": {
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[7.0.0, )"
             }
           },
+=======
+>>>>>>> fecd96645c55c37c07a6fcde1121366465761f04
           "imports": [
             "net461",
             "net462",
